@@ -1,10 +1,12 @@
 # DSA-NMIT
 Lab Programs which is basically on Data Structure Algorithms in C programming.
 
-List of Programs
+List of Lab Programs
 
-1. Linear And Binary Search
+1. Linear And Binary Search.
 
-2. Stack Implementation
+2. Stack Implementation.
 
-3. Infix To Postfix Conversion
+3. Infix To Postfix Conversion.
+
+4. Evaluation of Postfix Expression.
