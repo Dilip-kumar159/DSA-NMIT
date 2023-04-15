@@ -1,3 +1,5 @@
+// Program to Implement Stack Operations
+
 #include<stdio.h>
 #include<stdlib.h>
 
@@ -81,6 +83,7 @@ int main()
     int choice;
 
     while(1){
+
     printf("\n\nStack Menu \n");
     printf("1. Push Operation\n");
     printf("2. Pop Operation \n");
