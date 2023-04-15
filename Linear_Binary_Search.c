@@ -1,4 +1,7 @@
+// Program to implement Linear and Binary Search
+
 #include<stdio.h>
+#include<stdlib.h>
 
 void linearSearch(int arr[], int size){
 
