@@ -12,3 +12,5 @@ List of Lab Programs
 4. Infix To Postfix Conversion.
 
 5. Evaluation of Postfix Expression.
+
+6. Singly Linked List Program.
