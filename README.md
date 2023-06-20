@@ -14,3 +14,8 @@ List of Lab Programs
 5. Evaluation of Postfix Expression.
 
 6. Singly Linked List Program.
+
+7. Topological Sort.
+
+8. Depth-First-Search (DFS).
+
