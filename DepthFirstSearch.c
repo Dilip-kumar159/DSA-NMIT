@@ -1,4 +1,4 @@
-# include<stdio.h>
+#include<stdio.h>
 
 void dfs(int edges[10][10], int n, int sv, int visited[]){
 
@@ -16,6 +16,7 @@ void dfs(int edges[10][10], int n, int sv, int visited[]){
         }
     }
 }
+
 int main()
 {
     int n, e;
